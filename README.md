@@ -1,4 +1,4 @@
-# Woowahan_Tech_Learning_NotionProject
+# Woowahan_Tech_Learning : miniNotion
 
 [우아한 테크러닝 4기] 나만의 노션 만들기를 위한 저장소입니다.
 
